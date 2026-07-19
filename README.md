@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=OM%20PATEL&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20Systems%20%7C%20Building%20things%20that%20tinker%20back&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1b2735,100:203a43&height=220&section=header&text=OM%20PATEL&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Cloud%20Security%20Engineer%20%7C%20AWS%20%C2%B7%20Azure%20%C2%B7%20GCP&descAlignY=58&descSize=17" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Om;Computer+Science+Student;Tinkering+with+C%2C+C%2B%2B%2C+Python+%26+PHP;Always+shipping+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Om;Securing+the+Cloud%2C+One+Config+at+a+Time;Self-Studying+AWS+%2F+Azure+%2F+GCP+Security;IAM+%C2%B7+Networking+%C2%B7+Zero+Trust+%C2%B7+DevSecOps" alt="Typing SVG" />
 </a>
 
 </div>
@@ -14,21 +14,25 @@
 <tr>
 <td valign="top" width="50%">
 
-### 🧑‍💻 About Me
+### 🛡️ About Me
 
 ```yaml
 name: Om Bharatbhai Patel
-role: Tech Enthusiast / Student
+goal: Cloud Security Engineer
 based_in: Navsari, Gujarat, India
 studying_at: R.N.G. Patel Institute of Technology
+status: Self-studying cloud security across
+        AWS, Azure & GCP
 philosophy: "Programming is the ultimate field
              for someone who likes to tinker."
              — Ray Ozzie
 ```
 
-- 🎓 Currently studying Computer Science
-- 🛠️ Working across **C, C++, Python, PHP & Java**
-- 🌱 Always exploring new tools and frameworks
+- 🎯 Goal: **Cloud Security Engineer**
+- ☁️ Learning security fundamentals across **AWS, Azure & GCP**
+- 🔐 Diving into IAM, network security & cloud architecture
+- 🛠️ Programming foundation in **C, C++, Python, PHP, Java**
+- 📖 Currently self-studying — certs coming next
 - 📫 Reach me at **ompatel2612007@gmail.com**
 
 </td>
@@ -46,9 +50,15 @@ philosophy: "Programming is the ultimate field
 
 <div align="center">
 
-### 🧰 Tech Stack
+### ☁️ Cloud & Security Focus
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,php,java,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,linux&theme=dark" />
+
+<br/><br/>
+
+### 🧰 Core Tech Stack
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,php,java,bash,git,github,vscode&theme=dark" />
 
 </div>
 
@@ -61,6 +71,8 @@ philosophy: "Programming is the ultimate field
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmSystems&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF" width="48%"/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=OmSystems&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF" width="48%"/>
 
+<sub>⚠️ These are free third-party widgets and occasionally show blank if the service is rate-limited — they usually recover on their own within a refresh or two.</sub>
+
 </div>
 
 <br/>
@@ -71,7 +83,7 @@ philosophy: "Programming is the ultimate field
 
 <img src="https://raw.githubusercontent.com/OmSystems/OmSystems/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-<sub>⚙️ Set up automatically via the <code>Platane/snk</code> GitHub Action — see setup notes below.</sub>
+<sub>⚙️ Requires the one-time GitHub Action setup below — will stay blank until that workflow runs.</sub>
 
 </div>
 
@@ -107,6 +119,6 @@ philosophy: "Programming is the ultimate field
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,50:1b2735,100:0f2027&height=100&section=footer" width="100%"/>
 
 </div>
